@@ -5,6 +5,7 @@
 - Peach
 -hoang phi HULK
 - captain
+-tan pro
 
 ## Conclusion
 
